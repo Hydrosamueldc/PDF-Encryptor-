@@ -11,7 +11,8 @@ Python
 PyPDF2
 
 How to Use
-Clone the repository:
+Clone the repository:https://github.com/Hydrosamueldc/PDF-Encryptor-
+
 
 
 
